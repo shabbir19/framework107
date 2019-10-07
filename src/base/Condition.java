@@ -8,6 +8,7 @@ public class Condition {
 	String a="this is a simple project";
 	int b=10;
 	System.out.println(a+b);
+	System.out.println(a);
 	
 }
 }
